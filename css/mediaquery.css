@@ -149,8 +149,8 @@
 
 }
 
-/* Med Screen Devices */
-@media (max-width:376px) {
+/* Small Screen Devices */
+@media (max-width:481px) {
     /* Header */
     header {
         padding: 10px 20px;
